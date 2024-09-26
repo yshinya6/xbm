@@ -1,2 +1,2 @@
-# xbm
-Code repository for "Explanation Bottleneck Models"
+# Explanation Bottleneck Models
+Coming Soon...
