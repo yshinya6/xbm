@@ -1,4 +1,4 @@
-#Explanation Bottleneck Models (MINT Workshop @ NeurIPS2024 / AAAI2025)
+# Explanation Bottleneck Models (MINT Workshop @ NeurIPS2024 / AAAI2025)
 ## Requirements
 ### Software Requirements
 * CUDA >= 12.3
