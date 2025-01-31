@@ -30,3 +30,13 @@ cd ../
 ```sh
 python3 train_exbm.py --config=configs/car_exbm.yaml
 ```
+
+## Citation
+```
+@inproceedings{yamaguchi_AAAI25_XBM,
+  title={Explanation Bottleneck Models,
+  author={Yamaguchi, Shin'ya and Nishida, Kosuke},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2025}
+}
+```
