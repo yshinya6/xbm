@@ -1,4 +1,5 @@
 # Explanation Bottleneck Models (MINT Workshop @ NeurIPS2024 / AAAI2025)
+<img width="1229" alt="image" src="https://github.com/user-attachments/assets/036f0198-bd9f-4f6a-b435-d882b61826c7" />
 ## Requirements
 ### Software Requirements
 * CUDA >= 12.3
@@ -30,7 +31,6 @@ cd ../
 ```sh
 python3 train_exbm.py --config=configs/car_exbm.yaml
 ```
-
 ## Citation
 ```
 @inproceedings{yamaguchi_AAAI25_XBM,
