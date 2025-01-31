@@ -1,4 +1,5 @@
 # Explanation Bottleneck Models (MINT Workshop @ NeurIPS2024 / AAAI2025)
+XBM is an interpretable model that generates text explanations for the input embedding with respect to target tasks and then predicts final task labels from the explanations.
 
 <img width="1229" alt="image" src="https://github.com/user-attachments/assets/036f0198-bd9f-4f6a-b435-d882b61826c7" />
 
