@@ -19,7 +19,7 @@ wget https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/mod
 cd ../
 ```
 ### Target Datset: Car
-  1. Download the dataset from [here](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) including `{train,test}_annos.npz`
+  1. Download the dataset from [here](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) including `cars_{train,test}_annos.mat`
   2. Install the dataset into `./data/StanfordCars`
   3. Run the preparation script as follows:
 ```sh
